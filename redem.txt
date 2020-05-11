@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C259-5050
+
+ Directory of C:\Users\apanse\workspace\Test\src
+
+05/11/2020  05:57 PM    <DIR>          .
+05/11/2020  05:57 PM    <DIR>          ..
+05/11/2020  05:57 PM                 0 redem.txt
+05/11/2020  04:20 PM               466 Test.class
+05/11/2020  04:10 PM               200 Test.java
+               3 File(s)            666 bytes
+               2 Dir(s)  22,578,147,328 bytes free
